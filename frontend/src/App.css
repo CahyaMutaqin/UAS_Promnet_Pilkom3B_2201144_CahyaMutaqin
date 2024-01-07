@@ -1,0 +1,28 @@
+/* app.css */
+
+/* Reset CSS */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Latar belakang dengan gambar */
+body {
+  background-image: url('picture.png'); /* Ganti dengan URL gambar Anda */
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif; /* Atur font jika diperlukan */
+  color: white; /* Warna teks */
+}
+
+/* Gaya untuk konten */
+.content {
+  text-align: center;
+  padding: 50px;
+}
+
+.header-row {
+  background-color: #9370DB;
+  color: white;
+}
+
